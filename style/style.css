@@ -93,7 +93,7 @@ h6 {
 /* Обнуление */
 
 body {
-    background-color: #111;
+    background-color: #240909;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -151,21 +151,21 @@ body {
 }
 
 .slide_one {
-    background-image: url("https://images.unsplash.com/photo-1583121274602-3e2820c69888?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80");
+    background-image: url('../img/slide_1.jpg');
 }
 
 .slide_two {
-    background-image: url("https://images.unsplash.com/photo-1573950940509-d924ee3fd345?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1696&q=80");
+    background-image: url('../img/slide_2.jpg');
 }
 
 .slide_three {
-    background-image: url("https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1694&q=80");
+    background-image: url('../img/slide_3.jpg');
 }
 
 .slide_four {
-    background-image: url("https://images.unsplash.com/photo-1535732820275-9ffd998cac22?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=80");
+    background-image: url('../img/slide_4.jpg');
 }
 
 .slide_five {
-    background-image: url("https://images.unsplash.com/photo-1554744512-d6c603f27c54?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80");
+    background-image: url('../img/slide_5.jpg');
 }
